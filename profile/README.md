@@ -2,7 +2,7 @@
 
 An eBPF-based egress observability platform for your cloud and production applications.
 
-See our [blog](https://www.qpoint.io/blog) and [documetation](https://docs.qpoint.io/) for more details about the platform.
+See our [blog](https://www.qpoint.io/blog) and [documentation](https://docs.qpoint.io/) for more details about the platform.
 <!--
 
 **Here are some ideas to get you started:**
